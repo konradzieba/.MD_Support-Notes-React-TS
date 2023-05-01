@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import ReactSelect from 'react-select';
 import { Note, Tag } from './App';
 import { useMemo, useState } from 'react';
-import { v4 as uuidv4 } from 'uuid';
 import styles from './NoteList.module.css';
 
 type SimplifiedNote = {
@@ -57,7 +56,7 @@ export const NoteList = ({ availableTags, notes }: NoteListProps) => {
 							<Form.Control
 								type='text'
 								value={title}
-								onChange={(e) => e.target.value}
+								onChange={(e) => setTitle(e.target.value)}
 							/>
 						</Form.Group>
 					</Col>
@@ -65,11 +64,6 @@ export const NoteList = ({ availableTags, notes }: NoteListProps) => {
 						<Form.Group controlId='tags'>
 							<Form.Label>Title</Form.Label>
 							<ReactSelect
-								onCreateOption={(label) => {
-									const newTag = { id: uuidv4(), label };
-									onAddTag(newTag);
-									setSelectedTags((prevTags) => [...prevTags, newTag]);
-								}}
 								options={availableTags.map((tag) => {
 									return { label: tag.label, value: tag.id };
 								})}
@@ -121,10 +115,12 @@ const NoteCard = ({ id, title, tags }: SimplifiedNote) => {
 							direction='horizontal'
 							className='justify-content-center flex-wrap'
 						>
-              {tags.map(tag => (
-                <Badge className='text-truncate' key={tag.id}>{tag.label}</Badge>
-              ))}
-            </Stack>
+							{tags.map((tag) => (
+								<Badge className='text-truncate' key={tag.id}>
+									{tag.label}
+								</Badge>
+							))}
+						</Stack>
 					)}
 				</Stack>
 			</Card.Body>
