@@ -17,7 +17,7 @@ To search for a note by title, start typing in the input with "Title" label.
 ### Search for existing notes by tag
 To search for a note by tag, start typing the tag name or expand the select menu and then select an existing tag.
 
-![Image](https://photos.app.goo.gl/ammZRZhpktZdJLvM9)
+![Image](https://lh3.googleusercontent.com/pw/AJFCJaWv-iOh6wtG1aRzUbxPAhv618BYVlvFTDTFKAO9g_XOXmzuH8xPLO91fXgeBvT5eJZN04r6H1lAr5zUP01YcgFqerX64YpHuquJ4sYrfOuD42iEsf7LUKahc_gB4rX7V595Vuuz7Mu81AF5Dhjm4HQL=w1919-h891-s-no?authuser=0)
 
 ### Creating notes
 Create a note by clicking the "Create" button in the main view. You need to enter the title of the note, you can add a title and select a tag from those previously used or create a new one to be saved.
