@@ -17,7 +17,7 @@ To search for a note by title, start typing in the input with "Title" label.
 ### Search for existing notes by tag
 To search for a note by tag, start typing the tag name or expand the select menu and then select an existing tag.
 
-![Image](https://lh3.googleusercontent.com/pw/AJFCJaWmSPqTuVfiI8Te8JyxYuRZLx4mxMY01Tc3BQtIz_0VlOrswYVPp0Z-SwBCK4Q900StneMNgZwsLzvjf8U-PoEb_K-PaLafBgcu_bUspx_vAQv2IfEbtB1VaN3ClPEWDfxfWax-PiyOtn9zAygaqScFt8HvP3ToCD1MJpbLGrYqOuqhel9Vcq3dsXmskv8qGV90_2_OvdRbm0k_7TUTD85YuGDRzCvSXfTYnGaFIeBc5JYMToZWuwOk4iJXMvNsVx7CLzlj9Oy2lNFl-axJj0SAFkJE64B9n3jxsNjfSJJpK4_vY_F6ChOLFJn92mlATUVDmk9Ww9T_RNw45Q06l8nBVmUzQnUTVntVSDkFtkTWyyhkZqfaHI-cb-iFNKSjUq2fn4BmxGIPEQFVWdsDo8a6_WclpNfteKsk4NPY1bQKOuRRtbesrsb56Hjjuz28Oo8f0BM9gGV7PrETRCsE1b_GRvak-Fm8X3xe8a2pzUaBGq09m_KY-p-lu5jlHPrBoOd9tYsFi4MaONwHdCoYVb0zon-XIqIiY_1fImO5RqQ5EMxCF0XJIqpxC8YHx5rI7RW7sY0dhI-j6E75Ei0sTztiNRbpDPw-UZFW_J2O5Xts1Xv8M3kjET4hS3-P_QyiQiisY7ohlh1Afn02d6kFbiR0OPkc4Kee_elkjlkMBAmnasspafGcldXVIawKornD4_J96kN3ulGU24m7c4gZEqNGyti5wfG9YYeDcD-r24BGlKo0zdczZ5g5n0nXDBdbrBmke8vWi2_SsJ7Dql_Ul1ZpDiYmL_NSxF6gwftgGEdQocR6WUH4jfybZRxiH8zeImZwUrTxapLdy4rSy5oBrqcf_60KG7f-IJkI8RmG4-NjI8MBtb51wz-WySpBHJYoYRGgACTyZufxa5sopvynxOrxvfGqT_QttXLwZiqV3p_VTvuyWKu-opfiYBD9=w1919-h891-s-no?authuser=0)
+![Image](https://photos.app.goo.gl/ammZRZhpktZdJLvM9)
 
 ### Creating notes
 Create a note by clicking the "Create" button in the main view. You need to enter the title of the note, you can add a title and select a tag from those previously used or create a new one to be saved.
